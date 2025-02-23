@@ -53,4 +53,4 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 
 ## Author
 
-Pugazhvanan P
+Vettrivelan S
