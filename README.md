@@ -39,12 +39,12 @@ This project contains the source code for a stopwatch web application. It offers
 
 ## Project_Images
 
-![Project Image - Start](./resources/start.png)
+![Project Image - Start](Resources/start.png)
 ![Project Image - Lap 1](Resources/lap1.png)
 ![Project Image - Lap 2](Resources/lap2.png)
-![Project Image - Lap 3](./resources/lap3.png)
-![Project Image - Lap Stopped](./resources/lap_stop.png)
-![Project Image - Reset](./resources/reset.png)
+![Project Image - Lap 3](Resources/lap3.png)
+![Project Image - Lap Stopped](Resources/lap_stop.png)
+![Project Image - Reset](Resources/reset.png)
 
 
 ## Contributing
